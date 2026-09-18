@@ -12,7 +12,7 @@ Fascinado por anime e futebol ⚽
 
 <br/>
 
-### Estatísticas ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Yamato-senpai&show_icons=true&theme=tokyonight) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamato-senpai&layout=compact&theme=tokyonight) ![Streak de commits](https://streak-stats.demolab.com?user=Yamato-senpai&theme=tokyonight&hide_border=true) 
+### Estatísticas ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alexthropic&show_icons=true&theme=tokyonight) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamato-senpai&layout=compact&theme=tokyonight) ![Streak de commits](https://streak-stats.demolab.com?user=Yamato-senpai&theme=tokyonight&hide_border=true) 
 
 
 ### Contacto [![Email](https://img.shields.io/badge/Email-fabioromulo19%40gmail.com-1F1F1F?style=flat&logo=gmail&logoColor=white)](mailto:fabioromulo19@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-@alexromul0-1F1F1F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alexromul0?igsh=MTJ2eWt1aGthbWdqdw%3D%3D&utm_source=qr)
